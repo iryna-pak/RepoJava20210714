@@ -1,10 +1,5 @@
 package Lesson03;
 
-
-//import java.util.Arrays; // Arrays.toString - Инфа из методички к третьему уроку
-
-import java.security.KeyStore;
-
 public class HW_03 {
     public static void main(String[] args) {
 
